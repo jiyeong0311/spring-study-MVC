@@ -1,2 +1,4 @@
-package org.zerock.springex.sample;public class SampleDAO {
+package org.zerock.springex.sample;
+
+public class SampleDAO {
 }
